@@ -7,7 +7,7 @@ public class Model {
 	
 	private String a;
 	private String b;
-	
+	private String c;
 	
 	
 	public Model() {
