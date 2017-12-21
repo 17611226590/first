@@ -6,6 +6,7 @@ public class Model {
 	private int money;
 	
 	private String a;
+	private String b;
 	
 	
 	
