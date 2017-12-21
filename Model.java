@@ -4,6 +4,11 @@ public class Model {
 	private String outUser;
 	private String inUser;
 	private int money;
+	
+	private String a;
+	
+	
+	
 	public Model() {
 		super();
 		// TODO Auto-generated constructor stub
